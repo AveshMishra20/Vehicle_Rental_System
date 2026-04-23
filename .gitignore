@@ -1,0 +1,24 @@
+HELP.md
+# Maven build
+target/
+
+# Logs
+*.log
+
+# Compiled files
+*.class
+
+# Packaged files
+*.jar
+*.war
+
+# IDEss
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+
+# Environment files
+.env
